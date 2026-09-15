@@ -13,4 +13,4 @@ This repository contains NDA-safe engineering case studies focused on:
 - Production troubleshooting
 - Scalable backend design
 
-More detailed project stories coming soon 🚀
+
